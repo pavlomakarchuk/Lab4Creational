@@ -4,7 +4,7 @@
 //safety
 //media
 
-namespace Lab4Creational
+namespace Lab3Creational
 {
     public class Program
     {
